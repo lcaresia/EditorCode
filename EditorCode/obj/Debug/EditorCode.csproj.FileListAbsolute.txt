@@ -1,0 +1,10 @@
+C:\Users\Lucas\source\repos\EditorCode\EditorCode\bin\Debug\EditorCode.exe.config
+C:\Users\Lucas\source\repos\EditorCode\EditorCode\bin\Debug\EditorCode.exe
+C:\Users\Lucas\source\repos\EditorCode\EditorCode\bin\Debug\EditorCode.pdb
+C:\Users\Lucas\source\repos\EditorCode\EditorCode\obj\Debug\EditorCode.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\source\repos\EditorCode\EditorCode\obj\Debug\EditorCode.Form1.resources
+C:\Users\Lucas\source\repos\EditorCode\EditorCode\obj\Debug\EditorCode.Properties.Resources.resources
+C:\Users\Lucas\source\repos\EditorCode\EditorCode\obj\Debug\EditorCode.csproj.GenerateResource.Cache
+C:\Users\Lucas\source\repos\EditorCode\EditorCode\obj\Debug\EditorCode.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\EditorCode\EditorCode\obj\Debug\EditorCode.exe
+C:\Users\Lucas\source\repos\EditorCode\EditorCode\obj\Debug\EditorCode.pdb
